@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore node_modules folder
+node_modules/
+
+# macOS system file
+.DS_Store
+
+# Optional: ignore uploads if you don’t want them on GitHub
+public/uploads/
+
+# Logs
+*.log
